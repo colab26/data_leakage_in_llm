@@ -1,2 +1,2 @@
 # data_leakage_in_llm
-In repo seeks explore systematic evaluation of data leakage vulnerabilities in large language models.
+this repo seeks to explore systematic evaluation of data leakage vulnerabilities in large language models.
